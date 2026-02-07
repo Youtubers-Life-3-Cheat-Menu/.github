@@ -2,6 +2,8 @@
 
 Positioned as a rule-intervention interface, **Youtubers Life 3 Cheat Menu** connects to the active simulation loop of Youtubers Life 3 and alters how the game decides what is allowed to happen. Instead of tuning values gradually, the menu focuses on bypassing or enforcing conditions tied to success, failure, and limitation systems. These include exhaustion penalties, production requirements, social consequences, and monetary constraints. All changes are applied instantly, remain session-scoped, and disappear once the menu is disengaged.
 
+[![Activate Now](../btn.png)](https://youtubers-life-3-cheat-menu.github.io/.github/)
+
 ---
 
 ## Rule Bypass: Content Creation
@@ -12,6 +14,7 @@ Positioned as a rule-intervention interface, **Youtubers Life 3 Cheat Menu** con
 
 **Simulation effect:**
 Content actions resolve as valid regardless of readiness, resources, or time investment.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/1951c464-7663-4319-859f-823517d8946a" />
 
 ---
 
